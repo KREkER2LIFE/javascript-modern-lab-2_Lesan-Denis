@@ -1,0 +1,1 @@
+Rezolvarea sarcinilor cu javaScript
