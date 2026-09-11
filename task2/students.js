@@ -1,8 +1,8 @@
 import { calculateAverage } from './utils.js';
 
 let students = [
-  { id: 1, name: "Ana", grade: 9 },
-  { id: 2, name: "Ion", grade: 7 },
+  { id: 1, name: "Denis", grade: 9 },
+  { id: 2, name: "Constantin", grade: 7 },
   { id: 3, name: "Maria", grade: 10 },
   { id: 4, name: "Vlad", grade: 8 },
   { id: 5, name: "Elena", grade: 6 }
